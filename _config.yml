@@ -25,10 +25,10 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Arturo Villa
   url:            	 your site url
   facebook:          username
-  twitter:           sternblumen
+  twitter:           username
   google_plus:       username
   linkedin:          username
 
