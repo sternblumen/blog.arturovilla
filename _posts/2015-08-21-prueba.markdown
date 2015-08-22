@@ -8,7 +8,7 @@ categories: history
 tags:  mickey
 image:
   feature: url(https://slipknotmexico.files.wordpress.com/2015/08/slipknotmexico-slipknot-knotfest-mexico.jpg)
-  topPosition: -50px
+  topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
