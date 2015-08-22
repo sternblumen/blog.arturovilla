@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Escrito por: Arturo Villa
 
 Mucho se ha dicho acerca de la llegada del Knotfest a México luego de que Corey Taylor afirmara mediante el portal Reddit que Slipknot, la banda principal del festival y de la que funge como vocalista, estaría presentándose en el país en diciembre próximo. Pero más allá de todos los rumores, lo único cierto es que aún faltan un par de días para que knotfestmexico.com revele todos los detalles y por menores del evento.
 
