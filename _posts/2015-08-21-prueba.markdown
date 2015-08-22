@@ -7,7 +7,7 @@ excerpt: "Slipknot viene a México y lo hace a lo grande"
 categories: history
 tags:  mickey
 image:
-  feature: https://slipknotmexico.files.wordpress.com/2015/08/slipknotmexico-slipknot-knotfest-mexico.jpg
+  feature: url(https://slipknotmexico.files.wordpress.com/2015/08/slipknotmexico-slipknot-knotfest-mexico.jpg)
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
