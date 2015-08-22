@@ -1795,7 +1795,7 @@ body {
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
-  opacity: 0;
+  opacity: 0.5;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -webkit-transition-property: opacity, left, top, width;
   -webkit-transition-duration: 1s, .1s, .1s, .1s;
