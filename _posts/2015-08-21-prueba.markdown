@@ -7,7 +7,7 @@ excerpt: "Slipknot viene a México y lo hace a lo grande"
 categories: history
 tags:  Slipknot; Knotfest; 
 image:
-  feature: https://slipknotmexico.files.wordpress.com/2015/08/slipknotmexico-slipknot-knotfest-mexico.jpg
+  feature: http://i.imgur.com/3Bn5Qlk.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
