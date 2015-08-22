@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
+name:				         Blog
 title:               Arturo Villa
 tagline:             'Blog'
 description:         'Blog sobre música'
@@ -28,7 +28,7 @@ author:
   name:           	 Arturo Villa
   url:            	 your site url
   facebook:          username
-  twitter:           username
+  twitter:           Arturo_vmtz
   google_plus:       username
   linkedin:          username
 
