@@ -8,13 +8,13 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+timezone:            America/Mexico_City # eg. Asia/Kathmandu
+locale:              es_mx # eg. en_us
 name:				         Blog
 title:               Arturo Villa
 tagline:             'Blog'
 description:         'Blog sobre música'
-url:                 site url
+url:                 blog.arturovilla.com.mx
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
