@@ -23,5 +23,6 @@ El festival de este año destaca por tener un cartel con bandas **underground**,
 Otro tema del que se habló mucho el año pasado, fue el mal clima. Vamos de acuerdo en que las condiciones metereológicas pueden llegar a ser completamente impredecibles, sin embargo, cabe señalar que la audiencia espera enormemente que se tomen algunas medidas al respecto, claro, dentro de lo humanamente posible. Por lo pronto, es aconsejable que empecemos a preparar nuestras **botas** e **impermeable**, en caso de que el 21 y  22  de noviembre no sean lindos días soleados.
 
 En fin, si eres como muchos que no hemos reconocido a la mitad de las bandas anunciadas, aquí te dejamos un **playlist** para que cheques de lo que te has estado perdiendo.
+
 <br>
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12145046388%3Aplaylist%3A1iUjNOSNrWLyfsIQP9E1VC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
