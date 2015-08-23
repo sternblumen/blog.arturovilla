@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Festival Corona Capital 2015
-date:   2015/08/23
-last_modified_at:  2015/08/23
+date:   2015-08-23
+last_modified_at:  2015-08-23
 excerpt: "Se acerca el Festival Corona Capital de este año y siguen apareciendo las sorpresas."
 categories: Música
 tags:  Corona Capital
