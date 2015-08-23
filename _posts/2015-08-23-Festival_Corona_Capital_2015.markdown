@@ -24,5 +24,5 @@ Otro tema del que se habló mucho el año pasado, fue el mal clima. Vamos de acu
 
 En fin, si eres como muchos que no hemos reconocido a la mitad de las bandas anunciadas, aquí te dejamos un playlist para que cheques de lo que te has estado perdiendo.
 
-<br><br>
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12145046388%3Aplaylist%3A1iUjNOSNrWLyfsIQP9E1VC" width="300" height="380" frameborder="50" allowtransparency="true"></iframe>
+<br>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12145046388%3Aplaylist%3A1iUjNOSNrWLyfsIQP9E1VC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
