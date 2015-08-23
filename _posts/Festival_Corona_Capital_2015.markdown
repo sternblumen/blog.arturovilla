@@ -16,7 +16,7 @@ syntaxHighlighter: no
 
 Se acerca el Festival Corona Capital de este año y siguen apareciendo las sorpresas, como la reciente adición de Muse, Richard Ashcroft y otras bandas al cartel.
 
-Como cada año, los meses previos al Corona Capital están llenos de comentarios, muchos a favor y otros tantos en contra, ya que muchos consideran que las bandas anunciadas no tienen el nivel para un festival de este tamaño mientras otros consideran que las mejores interpretes no siempre son los más populares. Lo cierto, es que desde su primera edición en 2010, este evento ha ido creciendo y nos ha traido bandas de gran nombre, así como propuestas más nuevas y muy interesantes. 
+Como cada año, los meses previos al Corona Capital están llenos de comentarios, muchos a favor y otros tantos en contra, ya que muchos consideran que las bandas anunciadas no tienen el nivel para un festival de este tamaño mientras otros creen que los mejores interpretes no siempre son los más populares. Lo cierto, es que desde su primera edición en 2010, este evento ha ido creciendo y nos ha traido bandas de gran nombre, así como propuestas más nuevas y muy interesantes.
 
 El festival de este año destaca por tener un cartel con bandas bastante underground, y no por ello malas, como es el caso de Beirut o Milo Greene. Aún así, la lista está encabezada por nombres muy grandes, como Muse, Clavin Harris, The Libertines y Pixies (quienes también estuvieron al frente del primer Corona Capital). Pero la cosa no termina allí, ya que de cualquier manera, el festival promete hacernos bailar con varios clásicos que van desde Fatboy Slim hasta  Death from Above 1979.
 
