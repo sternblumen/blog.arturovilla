@@ -39,7 +39,7 @@ Por ahora, no queda más que decir: **Merci pour tout.**
 
 <br>
 <div style="text-align:center;">
-<iframe width="960" height="720" src="https://www.youtube.com/embed/acrQGBYz_vg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/acrQGBYz_vg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Créditos de la foto: **Patrick Filteau**
