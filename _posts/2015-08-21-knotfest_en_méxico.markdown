@@ -4,7 +4,7 @@ title:  "Knotfest en México"
 date:   2015-08-21 01:00:00
 last_modified_at:  2015-08-21 01:00:00
 excerpt: "Slipknot viene a México y lo hace a lo grande"
-categories: history
+categories: música
 tags:  Slipknot; Knotfest; 
 image:
   feature: http://i.imgur.com/3Bn5Qlk.jpg
