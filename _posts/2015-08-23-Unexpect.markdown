@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Unexpect | Un día triste para el Avant-Garde"
-date:   2015-08-23 01:00:00
-last_modified_at:  2015-08-23 01:00:00
+date:   2015 - 08 - 23 01:00:00
+last_modified_at:  2015 - 08 - 23 01:00:00
 excerpt: "Unexpect** ha decidido separar caminos, ya que todos los integrantes tienen ahora otros proyectos"
 categories: música
 tags:  Unexpect Avant-Garde 
@@ -33,8 +33,9 @@ Declaraciones como esta, hacen creer que tal vez los cientos de comentarios que 
 
 Y así las cosas. Ojalá que en algún futuro no muy lejano, podamos disfrutar de nuevo de todas esas bandas que han llegado a desaparecer por motivos distintos al talento, originalidad y armonía entre sus integrantes. Plataformas electrónicas como **Spotify**, **iTunes** o **Bandcamp**, parecen ser el futuro de esas pequeñas bandas que aunque pocos, tienen una base sólida de seguidores, y en las cuales pueden obtener algunas ganancias por su trabajo, aunque aún existe bastante polémica en cuanto a que dichas ganancias sean realmente las justas.
 
-Por ahora, no queda más que decir: **Merci pour tout.**
+Por ahora, no queda más que decir: **Merci pour tout.** <br>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/acrQGBYz_vg" frameborder="0" allowfullscreen></iframe>
+
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/acrQGBYz_vg" frameborder="0" allowfullscreen></iframe></center>
 
 Créditos de la foto: **Patrick Filteau**
