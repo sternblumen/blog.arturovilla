@@ -14,7 +14,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Mucho se ha dicho acerca de la llegada del **Knotfest** a México luego de que **Corey Taylor** afirmara mediante el portal **Reddit** que **Slipknot**, la banda principal del festival y de la que funge como vocalista, estaría presentándose en el país en diciembre próximo. Pero más allá de todos los rumores, lo único cierto es que aún faltan un par de días para que [**knotfestmexico.com**](www.knotfestmexico.com) revele todos los detalles y por menores del evento.
+Mucho se ha dicho acerca de la llegada del **Knotfest** a México luego de que **Corey Taylor** afirmara mediante el portal **Reddit** que **Slipknot**, la banda principal del festival y de la que funge como vocalista, estaría presentándose en el país en diciembre próximo. Pero más allá de todos los rumores, lo único cierto es que aún faltan un par de días para que http://www.knotfestmexico.com/ revele todos los detalles y por menores del evento.
 
 Aún así, bien podemos aventurarnos a especular sobre lo que veremos, y de entrada promete ser el mejor evento del año para los amantes del metal ya que sería la primera vez que **Slipknot** viene a México y lo hace a lo grande y con material nuevo de su álbum "**.5: The Gray Chapter**", aunque desgraciadamente son notables las ausencias de **Paul Gray** y de **Joey Jordison**. 
 
