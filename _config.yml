@@ -11,7 +11,7 @@ relative_permalinks: true
 timezone:            America/Mexico_City # eg. Asia/Kathmandu
 locale:              es_mx # eg. en_us
 name:				         Blog
-title:               Arturo Villa
+title:               15 kHz
 tagline:             'Blog'
 description:         'Blog sobre música'
 url:                 blog.arturovilla.com.mx
