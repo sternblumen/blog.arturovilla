@@ -15,6 +15,7 @@ title:               Arturo Villa
 tagline:             'Blog'
 description:         'Blog sobre música'
 url:                 blog.arturovilla.com.mx
+google_analytics:    'UA-66707308-1'
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   ''
