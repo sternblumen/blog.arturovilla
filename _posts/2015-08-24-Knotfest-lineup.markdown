@@ -20,7 +20,7 @@ En concreto, el festival se realizará el 5  de diciembre en el **Foro Pegaso**,
 
 Lo mejor de todo, es que en esta versión mexicana también podrás disfrutar de otras atracciones como **El Museo de Slipknot** y **Juegos de Feria**, así como la oportunidad de aventarte de un **Extreme Bungee**. Sumado a esto, también podrás asistir a una **pre-fiesta especial** en la compra de tu pase **VIP**, que consistirá en una carpa con DJ’s de rock, metal y hip hop.
 
-Los precios de los boletos van desde los $1,500 (área general), hasta los $15,000, que incluye experiencia vip, meet & greet con slipknot, vip lounge (con barra libre de cerveza), tour en backstage + acceso exclusivo a la pre-fiesta. ¿Estás listo para esta gran experiencia?
+Los precios de los boletos van desde los $1,500 para el área general, y hasta los $15,000, paquete VIP que incluye experiencia vip, meet & greet con slipknot, vip lounge (con barra libre de cerveza), tour en backstage y acceso exclusivo a la pre-fiesta. ¿Estás listo para esta gran experiencia?
 
 <center><br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/zQxV7ZfaB6I" frameborder="0" allowfullscreen></iframe>
