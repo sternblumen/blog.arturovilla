@@ -7,7 +7,7 @@ excerpt: "A sólo unos días del lanzamiento de "Heartache City", Cocorosie esta
 categories: Música
 tags:  Cocorosie
 image:
-  feature: 
+  feature: http://i.imgur.com/Ofvxr0H.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -18,9 +18,6 @@ syntaxHighlighter: no
 
 Las hermanas  **Bianca** y **Sierra Casady** están por estrenar su nuevo álbum: “**Heartache City**” el próximo 18 de septiembre, justo a la mitad del tour que tienen programado en Europa, Estados Unidos, México y Sudamérica, de modo que estaremos escuchando sus canciones más frescas. Aquí te dejamos una probadita de lo nuevo que traen:
 
-<br>
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/214024900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-<br>
 
 Cabe destacar que su nueva producción mantiene su estilo único, sin embargo, el sonido es un tanto más orgánico, dejando un poco de lado los beats electrónicos, que aunque siguen allí, canciones como el sencillo “**Un Beso**”, hacen gala de unas percusiones menos “procesadas”. En definitiva, estas chicas continúan experimentando con sus melodías y no hay duda de que nos sorprenderán cuando se presenten en tierras mexicanas.
 
