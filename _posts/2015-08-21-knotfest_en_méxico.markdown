@@ -14,9 +14,9 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-**UPDATE:** El cartel ofical del Knotfest ha sido anunciado. [**MÁS INFO AQUÍ**](http://15khz.com.mx/Knotfest-lineup/)
+**UPDATE:** El cartel ofical del Knotfest ha sido anunciado. Más info [**AQUÍ.**](http://15khz.com.mx/Knotfest-lineup/)
 
-<center>--------------------------------------------</center>
+<center>*</center>
 
 Mucho se ha dicho acerca de la llegada del **Knotfest** a México luego de que **Corey Taylor** afirmara mediante el portal **Reddit** que **Slipknot**, la banda principal del festival y de la que funge como vocalista, estaría presentándose en el país en diciembre próximo. Pero más allá de todos los rumores, lo único cierto es que aún faltan un par de días para que [**Knotfestmexico.com**](http://www.knotfestmexico.com/) revele todos los detalles y por menores del evento.
 
