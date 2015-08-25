@@ -7,7 +7,7 @@ excerpt: "A sólo unos días del lanzamiento de "Heartache City", Cocorosie esta
 categories: Música
 tags:  Cocorosie
 image:
-  feature: http://i.imgur.com/Ofvxr0H.jpg
+  feature: 
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
