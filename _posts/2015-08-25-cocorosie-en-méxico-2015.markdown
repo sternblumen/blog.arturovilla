@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Lineup del Knotfest México 2015
-date:             2015-08-24T13:04:19+05:45 # XML Schema Date/Time
-last_modified_at: 2015-08-24T13:04:19+05:45 # last page modified date/time
-excerpt: "El festival reunirá una amplia gama de géneros del metal"
+title:  Cocorosie en México 2015
+date:             2015-08-25T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-08-25T13:04:19+05:45 # last page modified date/time
+excerpt: "A sólo unos días del lanzamiento de "Heartache City", Cocorosie estará presentandose en el DF"
 categories: Música
-tags:  Slipknot Megadeth LambOfGod 
+tags:  Cocorosie
 image:
-  feature: http://i.imgur.com/lcvaPUv.png
+  feature: http://i.imgur.com/Ofvxr0H.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
