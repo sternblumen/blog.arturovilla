@@ -3,7 +3,7 @@ layout: post
 title:  Cocorosie en México 2015
 date:             2015-08-25T13:04:19+05:45 # XML Schema Date/Time
 last_modified_at: 2015-08-25T13:04:19+05:45 # last page modified date/time
-excerpt: 
+excerpt: "A sólo unos días después del lanzamiento de Heartache City, Cocorosie estará presentandose en el DF"
 categories: Música
 tags:  Cocorosie
 image:
