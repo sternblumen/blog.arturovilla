@@ -23,4 +23,4 @@ Lo mejor de todo, es que en esta versión mexicana también podrás disfrutar de
 Los precios de los boletos van desde los $1,500 (área general), hasta los $15,000, que incluye experiencia vip, meet & greet con slipknot, vip lounge (con barra libre de cerveza), tour en backstage + acceso exclusivo a la pre-fiesta. ¿Estás listo para esta gran experiencia?
 
 <br>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/zQxV7ZfaB6I" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zQxV7ZfaB6I" frameborder="0" allowfullscreen></iframe>
