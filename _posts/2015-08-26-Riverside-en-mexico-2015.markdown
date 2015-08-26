@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Cocorosie en México 2015
-date:             2015-08-25T13:04:19+05:45 # XML Schema Date/Time
-last_modified_at: 2015-08-25T13:04:19+05:45 # last page modified date/time
-excerpt: "A sólo unos días después del lanzamiento de Heartache City, Cocorosie estará presentandose en el DF"
+title:  Riverside en el Lunario del Auditorio Nacional
+date:             2015-08-26T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-08-26T13:04:19+05:45 # last page modified date/time
+excerpt: "Uno de los conciertos más esperados por los amantes del rock progresivo en México."
 categories: Música
-tags:  Cocorosie
+tags:  Riverside Rock Progresivo
 image:
-  feature: http://i.imgur.com/Ofvxr0H.jpg
+  feature: http://i.imgur.com/HsGrVXS.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
