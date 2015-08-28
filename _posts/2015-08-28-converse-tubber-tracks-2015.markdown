@@ -38,7 +38,9 @@ Sin embargo, sólo podemos encontrar dos bandas mexicanas seleccionadas, **The W
 
 Y los de Baja California con un estilo más alternativo, con unos aires de música ambiental pero con un sonido muy orgánico:
 
+<br><center>
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4x3rLJrvuPMotVDF9Vi3CU" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+</center><br>
 
 Debemos mencionar que esperábamos ver más propuestas nacionales en esta edición del concurso, ya que son muchas las bandas en México que están al tú por tú con las más populares y que sólo necesitan un pequeño empujón para despegar. De cualquier manera, aquí estaremos al pendiente de todas las novedades que nos traigan este par de proyectos, así como todo lo concerniente a la edición 2015 de **Converse Rubber Tracks**. Si quieres checar todas las bandas que participan, puedes hacerlo dando click [**AQUÍ**](http://www.converse-music.com/worldwide/?lang=es&country=Mexico).
 
