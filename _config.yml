@@ -14,7 +14,7 @@ name:				         Blog
 title:               15 kHz
 tagline:             'Blog'
 description:         'Blog sobre música'
-url:                 blog.arturovilla.com.mx
+url:                 http://15khz.com.mx/
 google_analytics:    'UA-66707308-1'
 rss:                 rss feed url
 baseurl:             '/'
@@ -29,7 +29,7 @@ author:
   name:           	 Arturo Villa
   url:            	 your site url
   facebook:          username
-  twitter:           Arturo_vmtz
+  twitter:           15kHzBlog
   google_plus:       username
   linkedin:          username
 
