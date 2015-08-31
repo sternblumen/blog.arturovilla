@@ -16,9 +16,9 @@ syntaxHighlighter: no
 
 Hace un par de semanas, el nuevo álbum de la banda sueca **Ghost**, salió a la venta y está disponible en todas la plataformas:
 
-[**iTunes**](http://found.ee/MELIORA_iTunes)
-[**Amazon**](http://found.ee/MelioraAma)
-[**LP/CD/Bundle Packages**](http://found.ee/MELIORA)
+[**iTunes**](http://found.ee/MELIORA_iTunes)<br>
+[**Amazon**](http://found.ee/MelioraAma)<br>
+[**LP/CD/Bundle Packages**](http://found.ee/MELIORA)<br>
 [**Google Play**](http://found.ee/Meliora_GPlay)
 
 
