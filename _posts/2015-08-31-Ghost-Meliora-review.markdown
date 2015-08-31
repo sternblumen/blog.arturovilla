@@ -16,6 +16,12 @@ syntaxHighlighter: no
 
 Hace un par de semanas, el nuevo álbum de la banda sueca **Ghost**, salió a la venta y está disponible en todas la plataformas:
 
+[**iTunes**](http://found.ee/MELIORA_iTunes)
+[**Amazon**](http://found.ee/MelioraAma)
+[**LP/CD/Bundle Packages**](http://found.ee/MELIORA)
+[**Google Play**](http://found.ee/Meliora_GPlay)
+
+
 Y bien, la espera ha valido la pena. Este disco mantiene el ultra característico estilo de la banda, como en sus anteriores álbumes, **Opus Eponymous** e **Infestissumam**, y también podemos escuchar un bajeo súper crujiente en “**From The Pinacle To The Pit**”, un solo meloso de guitarra en “**Cirice**”, así como las melodías pegajosas de la voz y los teclados, sazonado con lo más importante: **Satanás**. Sin embargo, enormemente pulido esta vez, ya que se escucha una banda más madura, sumándole un sonido más profundo y definido a la batería y de quién se nota un cambio a un estilo más protagónico. Cabe mencionar que la calidad de sonido y la mezcla también han mejorado bastante con respecto a sus anteriores producciones.
 
 El disco comienza con una introducción que va de lo armónico a lo tétrico, y al pasar las pistas tenemos un par de intermedios instrumentales que le dan a todo el álbum un ambiente mucho más interesante, y que denota un trabajo bien planificado de principio a fin. El orden de las pistas es fundamental para el disfrute máximo, con todo el poder en la primera sección, lo más melódico en medio y un final épico. Simplemente genial.
@@ -24,4 +30,4 @@ Las letras de las canciones, aunque sigue siendo paganas, están escritas de una
 
 En fin, si con todo lo dicho aún no estás convencido, date la oportunidad de escucharlo por ti misma o por ti mismo:
 
-<br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/CzzkemzfdfU" frameborder="0" allowfullscreen></iframe>>/center><br>
+<br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/CzzkemzfdfU" frameborder="0" allowfullscreen></iframe></center>
