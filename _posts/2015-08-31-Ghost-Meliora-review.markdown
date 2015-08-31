@@ -3,7 +3,7 @@ layout: post
 title:  MELIORA: El nuevo álbum de Ghost
 date:             2015-08-31T13:04:19+05:45 # XML Schema Date/Time
 last_modified_at: 2015-08-31T13:04:19+05:45 # last page modified date/time
-excerpt: "El nuevo álbum de Ghost, MELIORA, ya está aquí, y suena MUY bien."
+excerpt: ""
 categories: Música
 tags:  Ghost Meliora Cirice From The Pinacle To The Pit
 image:
