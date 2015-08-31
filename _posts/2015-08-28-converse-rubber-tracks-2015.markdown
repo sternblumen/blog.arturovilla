@@ -5,7 +5,7 @@ date:             2015-08-28T13:04:19+05:45 # XML Schema Date/Time
 last_modified_at: 2015-08-28T13:04:19+05:45 # last page modified date/time
 excerpt: "Aquí tenemos una probada de las bandas seleccionadas para grabar en 12 estudios de grabación de todo el mundo."
 categories: Música
-tags:  Riverside Rock Progresivo
+tags:  Converse Rock Progresivo
 image:
   feature: http://i.imgur.com/3TXuuky.jpg
   topPosition: -50px
