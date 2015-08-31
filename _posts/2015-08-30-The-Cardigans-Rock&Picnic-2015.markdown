@@ -16,7 +16,7 @@ syntaxHighlighter: no
 
 Poco se ha dicho de la llegada de **The Cardigans** al festival regiomontano **Rock & Picnic** que se llevará a cabo en el **Woodstock Plaza**, Santiago, Nuevo León, donde se presentará junto a prestigiosos artistas mexicanos como **La Ley** y **Ximena Sariñana**, esto quizá por ser un evento fuera de la capital del país, o tal vez porque la banda sueca no es tan popular en el gusto de los mexicanos. Sin embargo, en los 90's gozaban de una fama bastante fuerte sonando temas como "**My Favourite Game**" y "**Erase and Rewind**", incluidos en su álbum más representativo, "Gran Turismo", de 1998.
 
-<br><center><a href="http://imgur.com/SmJtnHx" width="589" height="218"/a></center><br>
+<br><center><img src="http://i.imgur.com/SmJtnHx.png" width="589" height="218"></center><br>
 
 Pero luego de una notoria inactividad, la banda se tomó un descanso en 2006, partiendo el corazón de muchos de sus fans. Es por eso que el festival de Monterrey representa una oportunidad única para reconciliarnos con ese sonido único, dado que por ahora no hay confirmadas otras fechas en el país. Así mismo, tampoco se sabe de algún plan para un nuevo lanzamiento discográfico, por lo que podemos imaginar que el reencuentro sigue en una etapa experimental. Si realmente eres fan de la banda liderada por **Linda Persson**, este es el momento de mostrarles algo de apoyo.
 
