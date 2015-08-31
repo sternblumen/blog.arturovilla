@@ -24,4 +24,4 @@ Aún así, su nuevo y único sencillo en **Spotify** tiene un ritmo bastante agr
 
 En pocas palabras, esta es una banda que promete posicionarse alto en el mundo del metal. 
 
-¡Checa su actividad en Twitter! **https://twitter.com/BlodBand**
+¡Checa su actividad en Twitter! [**twitter.com/BlodBand**](https://twitter.com/BlodBand)
