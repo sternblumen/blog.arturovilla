@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Descubrimiento de la Semana | BLOD
-date:             2015-08-28T13:04:19+05:45 # XML Schema Date/Time
-last_modified_at: 2015-08-28T13:04:19+05:45 # last page modified date/time
+date:             2015-08-30T13:05:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-08-30T13:05:19+05:45 # last page modified date/time
 excerpt: "Un espacio a las bandas más underground e independientes"
 categories: Música Metal Industrial
 tags:  Metal Industrial Underground Independiente
