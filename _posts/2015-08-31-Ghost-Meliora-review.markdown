@@ -28,6 +28,6 @@ El disco comienza con una introducción que va de lo armónico a lo tétrico, y 
 
 Las letras de las canciones, aunque sigue siendo paganas, están escritas de una manera más sutil y metafórica. La palabra “Satán” no se menciona en ninguna canción. Esto podría parecer algo malo para los amantes de lo oscuro, pero lejos de eso, estos versos se perciben más interesantes y dan más de qué pensar sin tener que ser tan explícitos.
 
-En fin, si con todo lo dicho aún no estás convencido, date la oportunidad de escucharlo por ti misma o por ti mismo:
+En fin, si con todo lo dicho aún no estás convencido, date la oportunidad de escucharlo aquí:
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/CzzkemzfdfU" frameborder="0" allowfullscreen></iframe></center>
