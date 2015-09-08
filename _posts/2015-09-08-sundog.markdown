@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Descubrimiento de la Semana | SUNDOG
+date:             2015-09-08T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-09-08T13:04:19+05:45 # last page modified date/time
+excerpt: "Descubrimiento de la semana."
+categories: Música
+tags:  Sundog Heavy Blues Stoner Rock Psychedelic
+image:
+  feature: http://i.imgur.com/cjXaJZ8.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+**Sundog** es una banda de **Heavy Blues**, originaria de Munich, Alemania, y hay que decir que tienen un sonido bastante interesante.
+
+Inspirado del rock de los 70’s, la propuesta de esta banda es predominantemente fuerte, con guitarras sumamente distorsionadas y un bajeo profundo y metálico que contrasta con una voz mucho más limpia y melódica. Sin embargo, mantienen un estilo fresco y original, ya que definitivamente no es una banda que “emula” el sonido “vintage”, sino que le da nueva vida al **blues**.
+
+Su recién lanzado EP, **Fever Lane**, te atrapará de inmediato. Tiene un comienzo muy pesado, pasando por un sonido más clásico y a ratos hasta melancólico, para terminar con un toque psicodélico. Es sonido es bastante bueno, todo en su lugar y con mucho feeling. en definitiva, una muy buena carta de presentación para cualquier banda, y la puedes checar a continuación:
+
+<br><center><iframe style="border: 0; width: 350px; height: 470px;" src="http://bandcamp.com/EmbeddedPlayer/album=1080418155/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://sundogblues.bandcamp.com/album/fever-lane-ep">Fever Lane EP by SUNDOG</a></iframe></center><br>
+
+Esperamos saber más de esta banda en el futuro, porque como muchas otras que están por allí, tienen un talento innegable. 
