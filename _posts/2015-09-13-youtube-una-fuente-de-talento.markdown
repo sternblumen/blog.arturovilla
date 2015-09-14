@@ -32,7 +32,7 @@ Empezamos con **Christian Bernadac**, un chico originario de Durango, integrante
 
 ####Sarah Longfield, Yvette Young y Plini, el Fenómeno Strandberg*
 
-En ámbitos más internacionales, ejemplos que destacan son los de **Sara Longfield** [(The fine Constant)](https://www.facebook.com/TheFineConstant?fref=ts), y de **Yvette Young**. Ambas, artistas que han ido poco a poco haciéndose de una base de fans, con canales que rondan los 6 y 7 años. Sara comienza con covers de guitarra de bandas de **metal** extremas, haciendo gala de un gran virtuosismo, para luego llegar a esto:
+En ámbitos más internacionales, ejemplos que destacan son los de **Sarah Longfield** [(The fine Constant)](https://www.facebook.com/TheFineConstant?fref=ts), y de **Yvette Young**. Ambas, artistas que han ido poco a poco haciéndose de una base de fans, con canales que rondan los 6 y 7 años. Sarah comienza con covers de guitarra de bandas de **metal** extremas, haciendo gala de un gran virtuosismo, para luego llegar a esto:
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/QogVIfTmX1E" frameborder="0" allowfullscreen></iframe></center><br>
 
