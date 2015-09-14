@@ -7,7 +7,7 @@ excerpt: "Youtube se ha transformado en nuestra nueva forma de entretenimiento"
 categories: Música
 tags:  Youtube música Rob Scallon Eric Calderone Plini Sarah Longfield Yvette Young Vazquez Sounds
 image:
-  feature: http://i.imgur.com/rKDdOb5.jpg
+  feature: http://i.imgur.com/zZ6vfrH.png
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
