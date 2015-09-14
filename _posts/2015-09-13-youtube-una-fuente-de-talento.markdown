@@ -40,7 +40,7 @@ Por otra parte, Yvette comienza con algunas canciones originales que consistían
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/44ZTJ4HGEDA" frameborder="0" allowfullscreen></iframe></center><br>
 
-Otra más de las similitudes que comparten, es que ambas se vieron “forzadas” a crear proyectos para presentarse en vivo, y ambas están patrocinadas actualmente por [**Strandberg Guitars**](https://strandbergguitars.com/), una marca que parece estar bastante interesada por los artistas emergentes de **Youtube**. Una muestra más de ello, es uno de sus artistas más representativos, **Plini**, guitarrista y compositor austriaco con influencias de **progresivo**, **metal** y *jazz**, y quien con el tiempo ha conseguido las participaciones de artistas renombrados como **Marco Minnemann**, luego de ganarse una base sólida de fans gracias a su fuerte participación en las redes sociales.
+Otra más de las similitudes que comparten, es que ambas se vieron “forzadas” a crear proyectos para presentarse en vivo, y ambas están patrocinadas actualmente por [**Strandberg Guitars**](https://strandbergguitars.com/), una marca que parece estar bastante interesada por los artistas emergentes de **Youtube**. Una muestra más de ello, es uno de sus artistas más representativos, **Plini**, guitarrista y compositor austriaco con influencias de **progresivo**, **metal** y **jazz**, y quien con el tiempo ha conseguido las participaciones de artistas renombrados como **Marco Minnemann**, luego de ganarse una base sólida de fans gracias a su fuerte participación en las redes sociales.
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/vexLcbi638M" frameborder="0" allowfullscreen></iframe></center><br>
 
