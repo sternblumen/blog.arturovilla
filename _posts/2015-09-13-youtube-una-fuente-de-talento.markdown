@@ -18,6 +18,8 @@ Las redes sociales se han convertido en una gran parte de nuestras vidas, ya que
 
 Y así llegamos con los músicos más representativos de esta **red social**, casos que destacan por haber alcanzado una popularidad tan grande como la de cualquier artista representado por alguna disquera famosa, todo por su constancia en en **youtube**.
 
+####Christian Bernadac
+
 Empezamos con **Christian Bernadac**, un chico originario de Durango, integrante de la banda de **death metal**, **All Misery**, con quienes se ha presentado ya en distintos países, destacando  Alemania, Luxemburgo, Reino Unido, Bélgica, Holanda y Francia, y aunque es difícil decir que este artista “nace” de Youtube, es claro que su trabajo como solista lo ha llevado más allá de las fronteras de una “banda conocida”. Actualmente es patrocinado por [**ESP Guitars**](http://www.espguitars.com/users/5421482) y por [**EMG Pickups**](http://www.emgpickups.com/artist/index/view/id/790), y con esto está a punto de lanzar un álbum producido por él mismo. En su canal de **Youtube** podemos encontrar algunas cosas que dan muestra de su talento.
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/DbyAUr7suzs" frameborder="0" allowfullscreen></iframe></center><br>
