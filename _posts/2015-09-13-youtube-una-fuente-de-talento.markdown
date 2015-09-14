@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Youtube | Una fuente de talento
-date:             2015-09-08T13:04:19+05:45 # XML Schema Date/Time
-last_modified_at: 2015-09-08T13:04:19+05:45 # last page modified date/time
+date:             2015-09-13T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-09-13T13:04:19+05:45 # last page modified date/time
 excerpt: "Youtube se ha transformado en nuestra nueva forma de entretenimiento"
 categories: Música
 tags:  Youtube música Rob Scallon Eric Calderone Plini Sarah Longfield Yvette Young Vazquez Sounds
@@ -32,11 +32,11 @@ Empezamos con **Christian Bernadac**, un chico originario de Durango, integrante
 
 ####Sarah Longfield, Yvette Young y Plini, el Fenómeno Strandberg*
 
-En ámbitos más internacionales, ejemplos que destacan son los de **Sarah Longfield** [(The fine Constant)](https://www.facebook.com/TheFineConstant?fref=ts), y de **Yvette Young**. Ambas, artistas que han ido poco a poco haciéndose de una base de fans, con canales que rondan los 6 y 7 años. Sarah comienza con covers de guitarra de bandas de **metal** extremas, haciendo gala de un gran virtuosismo, para luego llegar a esto:
+En ámbitos más internacionales, ejemplos que destacan son los de **Sarah Longfield** [(The fine Constant)](https://www.facebook.com/TheFineConstant?fref=ts), y de **Yvette Young**. Ambas, artistas que han ido poco a poco haciéndose de una base de fans, con canales que rondan los 6 y 7 años. **Sarah** comienza con covers de guitarra de bandas de **metal** extremas, haciendo gala de un gran virtuosismo, para luego llegar a esto:
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/QogVIfTmX1E" frameborder="0" allowfullscreen></iframe></center><br>
 
-Por otra parte, Yvette comienza con algunas canciones originales que consistían en una guitarra acústica y su particular voz. Ahora se presenta en los foros de **EMG Pickups** como una de sus artistas destacados:
+Por otra parte, **Yvette** comienza con algunas canciones originales que consistían en una guitarra acústica y su particular voz. Ahora se presenta en los foros de **EMG Pickups** como una de sus artistas destacados:
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/44ZTJ4HGEDA" frameborder="0" allowfullscreen></iframe></center><br>
 
