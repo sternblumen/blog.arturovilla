@@ -26,7 +26,7 @@ Empezamos con **Christian Bernadac**, un chico originario de Durango, integrante
 
 ####Vazquez Sounds
 
-¿Quién no se acuerda de [**Vazquez Sounds**](http://www.vazquezsounds.com/site/)? Un proyecto de tres hermanos quienes con su primer video subido a Youtube, un cover de **Rolling in the Deep** de la británica **Adele**, han llegado a más de 164 millones de visitas, cambiando sus vidas de la noche a la mañana. Mucho se dijo acerca de si realmente son chicos con talento o si es un proyecto súper producido”, y la verdad es que son ambas cosas. La producción detrás de sus videos es impresionante, y se nota que son personas que saben lo que hacen, pero aún con todo eso, no se puede negar que los chicos hacen bien su trabajo al interpretar sus covers y más recientemente, sus canciones originales.
+¿Quién no se acuerda de [**Vazquez Sounds**](http://www.vazquezsounds.com/site/)? Un proyecto de tres hermanos quienes con su primer video subido a Youtube, un cover de **Rolling in the Deep** de la británica **Adele**, han llegado a más de 164 millones de visitas, cambiando sus vidas de la noche a la mañana. Mucho se dijo acerca de si realmente son chicos con talento o si es un proyecto "súper producido”, y la verdad es que son ambas cosas. La producción detrás de sus videos es impresionante, y se nota que son personas que saben lo que hacen, pero aún con todo eso, no se puede negar que los chicos hacen bien su trabajo al interpretar sus covers y más recientemente, sus canciones originales.
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/d0SUOiooMFs" frameborder="0" allowfullscreen></iframe></center><br>
 
