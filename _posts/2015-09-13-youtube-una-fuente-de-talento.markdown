@@ -24,11 +24,15 @@ Empezamos con **Christian Bernadac**, un chico originario de Durango, integrante
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/DbyAUr7suzs" frameborder="0" allowfullscreen></iframe></center><br>
 
-Y bueno, ¿quién no se acuerda de [**Vazquez Sounds**](http://www.vazquezsounds.com/site/)? Un proyecto de tres hermanos quienes con su primer video subido a Youtube, un cover de **Rolling in the Deep** de la británica **Adele**, han llegado a más de 164 millones de visitas, cambiando sus vidas de la noche a la mañana. Mucho se dijo acerca de si realmente son chicos con talento o si es un proyecto súper producido”, y la verdad es que son ambas cosas. La producción detrás de sus videos es impresionante, y se nota que son personas que saben lo que hacen, pero aún con todo eso, no se puede negar que los chicos hacen bien su trabajo al interpretar sus covers y más recientemente, sus canciones originales.
+####Vazquez Sounds
+
+¿Quién no se acuerda de [**Vazquez Sounds**](http://www.vazquezsounds.com/site/)? Un proyecto de tres hermanos quienes con su primer video subido a Youtube, un cover de **Rolling in the Deep** de la británica **Adele**, han llegado a más de 164 millones de visitas, cambiando sus vidas de la noche a la mañana. Mucho se dijo acerca de si realmente son chicos con talento o si es un proyecto súper producido”, y la verdad es que son ambas cosas. La producción detrás de sus videos es impresionante, y se nota que son personas que saben lo que hacen, pero aún con todo eso, no se puede negar que los chicos hacen bien su trabajo al interpretar sus covers y más recientemente, sus canciones originales.
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/d0SUOiooMFs" frameborder="0" allowfullscreen></iframe></center><br>
 
-Pero en ámbitos más internacionales, ejemplos que destacan son los de **Sara Longfield** [(The fine Constant)](https://www.facebook.com/TheFineConstant?fref=ts), y de **Yvette Young**. Ambas, artistas que han ido poco a poco haciéndose de una base de fans, con canales que rondan los 6 y 7 años. Sara comienza con covers de guitarra de bandas de **metal** extremas, haciendo gala de un gran virtuosismo, para luego llegar a esto:
+####Sarah Longfield, Yvette Young y Plini, el Fenómeno Strandberg*
+
+En ámbitos más internacionales, ejemplos que destacan son los de **Sara Longfield** [(The fine Constant)](https://www.facebook.com/TheFineConstant?fref=ts), y de **Yvette Young**. Ambas, artistas que han ido poco a poco haciéndose de una base de fans, con canales que rondan los 6 y 7 años. Sara comienza con covers de guitarra de bandas de **metal** extremas, haciendo gala de un gran virtuosismo, para luego llegar a esto:
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/QogVIfTmX1E" frameborder="0" allowfullscreen></iframe></center><br>
 
@@ -40,7 +44,9 @@ Otra más de las similitudes que comparten, es que ambas se vieron “forzadas�
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/vexLcbi638M" frameborder="0" allowfullscreen></iframe></center><br>
 
-Pero también tenemos algunos artistas que mezclan perfectamente su talento musical con un toque de comedia, y dos ejemplos perfectos de eso son **Rob Scallon** y **Eric Calderone**. **Rob** se caracteriza por mofarse un poco del **metal**, pero no como aquellos que se burlan del género sólo porque no lo pueden tocar, sino de una forma más inteligente, bromas que, a menos que sepas un poco de las tendencias de producción musical, tal vez no entiendas, como este interesante gran “video game” interactivo:
+####Música, Metal y Comedia
+
+También tenemos algunos artistas que mezclan perfectamente su talento musical con un toque de comedia, y dos ejemplos perfectos de eso son **Rob Scallon** y **Eric Calderone**. **Rob** se caracteriza por mofarse un poco del **metal**, pero no como aquellos que se burlan del género sólo porque no lo pueden tocar, sino de una forma más inteligente, bromas que, a menos que sepas un poco de las tendencias de producción musical, tal vez no entiendas, como este interesante gran “video game” interactivo:
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/IjUjiZGIemI" frameborder="0" allowfullscreen></iframe></center><br>
 
