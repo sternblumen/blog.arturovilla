@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Descubrimiento de la Semana | SOUR SOUL
+date:             2015-09-14T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-09-14T13:04:19+05:45 # last page modified date/time
+excerpt: "Un rock muy distinto al que podemos escuchar usualmente"
+categories: Música
+tags:  Sour Soul Rock Progresivo Funk Alternativo
+image:
+  feature: http://i.imgur.com/XxqWJtk.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Esta semana tendremos a los chicos de **Sour Soul**, originarios de la Ciudad de México. Aunque se etiquetan como **rock** su propuesta es la de una banda muy distinta a las que podemos escuchar usualmente en la zona metropolitana, ésta se caracteriza por una atmósfera más oscura y a la vez bastante disfrutable. Son notables las muy diversas influencias, abarcando desde **funk** hasta **rock progresivo** y que han sido entrelazadas inteligentemente para generar sentimientos únicos en cada canción, sazonadas con toques melancólicos.
+
+La calidad de sus trabajos es bastante destacable. Tienen un sonido preciso y muy sólido, eso es en parte gracias a la participación de **Justin J Leeah**, quien fungió como ingeniero en la producción del álbum “**L’appel du Vide**”, el cual significó un parteaguas para la banda.
+
+Su más reciente álbum, “**Shadow Order**”, goza de estilos muy variados, haciéndolo un trabajo sumamente interesante de escuchar que te mantendrá cautivo, y en el cual se incluye la canción **Undermine**, la que cuenta ya con un multi reconocido video a nivel mundial:
+
+<br><center><iframe src="https://player.vimeo.com/video/73898821" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/73898821">Sour Soul - Undermine</a> from <a href="https://vimeo.com/wearedags">We Are Dags</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center><br>
+
+Sin duda, es una proyecto que se pone al tú por tú con grandes bandas de talla internacional, y no sólo por su calidad de sonido y ejecución, sino que además tienen el elemento principal de toda  música exitosa, un estilo propio. Vale la pena seguirles la pista.
+
+<br><center><iframe style="border: 0; width: 350px; height: 470px;" src="http://bandcamp.com/EmbeddedPlayer/album=3285644557/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://soursoulmusic.bandcamp.com/album/shadow-order">Shadow Order by Sour Soul</a></iframe></center><br>
