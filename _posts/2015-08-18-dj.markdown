@@ -7,7 +7,7 @@ excerpt: "DJ"
 categories: Música
 tags:  Corona Capital
 image:
-  feature: 
+  feature: http://i.imgur.com/Cyi28cn.png
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
