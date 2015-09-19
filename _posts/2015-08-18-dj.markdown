@@ -7,7 +7,7 @@ excerpt: "Tendrás la oportunidad de bailar al ritmo de los más grandes éxitos
 categories: Música
 tags:  Corona Capital
 image:
-  feature: http://i.imgur.com/Cyi28cn.png
+  feature: http://i.imgur.com/LOnp9mw.png
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
