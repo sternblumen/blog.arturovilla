@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Wolfpack
-date:             2015-08-18T13:04:19+05:45 # XML Schema Date/Time
-last_modified_at: 2015-08-18T13:04:19+05:45 # last page modified date/time
-excerpt: "DJ"
+title:  Wolfpack en México
+date:             2015-09-19T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-09-19T13:04:19+05:45 # last page modified date/time
+excerpt: "Tendrás la oportunidad de bailar al ritmo de los más grandes éxitos de Wolfpack"
 categories: Música
 tags:  Corona Capital
 image:
