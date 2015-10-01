@@ -93,6 +93,6 @@ Más tarde, en 1993, **Shimomura** empezaría a trabajar para la compañía ahor
 
 <br><center><iframe width="480" height="360" src="https://www.youtube.com/embed/Z1OvLkmjHiI" frameborder="0" allowfullscreen></iframe></center><br>
 
-Actualmente, trabaja como freelance para diversas compañías, destacando algunos títulos de **Mario & Luigui**, **King of Hearts** (aunque el primer OST de esta franquicia lo realizó aún trabajando para Square enix), y más recientemente **Final Fantasy XV”.
+Actualmente, trabaja como freelance para diversas compañías, destacando algunos títulos de **Mario & Luigui**, **King of Hearts** (aunque el primer OST de esta franquicia lo realizó aún trabajando para Square enix), y más recientemente **Final Fantasy XV**.
 
 Y así, una cantidad innumerable de artistas han pasado por este sector del entretenimiento, alegrando la vida de muchos,. Aquí sólo hemos hablado de unos cuantos de los más clásicos, tratando de darles un poco del crédito que se merecen, sin embargo, aún quedan muchos por mencionar. ¿Qué otro compositor te gustaría que estuviera aquí?
