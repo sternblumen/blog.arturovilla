@@ -71,7 +71,7 @@ Músico autodidacta, **Uematsu** comienza a tocar el piano cerca de los 12 años
 
 <br><center><iframe width="640" height="360" src="https://www.youtube.com/embed/Zfd9krEsr-k?list=PLAC6CCD5897973D5D" frameborder="0" allowfullscreen></iframe></center><br>
 
-En 2004, deja la compañía y funda **Smile Please** donde de forma *freelance**, sigue trabajando para **Square Enix** en las entregas de **Final Fantasy**, siendo **Final Fantasy XIV** la última en realizar para esta franquicia, en 2010. 
+En 2004, deja la compañía y funda **Smile Please** donde de forma freelance, sigue trabajando para **Square Enix** en las entregas de **Final Fantasy**, siendo **Final Fantasy XIV** la última en realizar para esta franquicia, en 2010. 
 
 ####Akira Yamaoka
 
