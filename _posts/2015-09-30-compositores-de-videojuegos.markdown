@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Los Grandes Compositores en los Videojuegos
-date:             2015-09-14T13:04:19+05:45 # XML Schema Date/Time
-last_modified_at: 2015-09-14T13:04:19+05:45 # last page modified date/time
+date:             2015-09-30T13:04:19+05:45 # XML Schema Date/Time
+last_modified_at: 2015-09-30T13:04:19+05:45 # last page modified date/time
 excerpt: "Un pequeño homenaje a los héroes detrás del entretenimiento"
 categories: Música
 tags:  Rock Progresivo Funk Alternativo Videojuegos Mario Bros
